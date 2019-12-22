@@ -2,9 +2,11 @@
 A little python script for running a query against a sqlite database and printing the results.
 
 Created because I got tired of this mess:
+
 ![sqlite3](images/sqlite3.png)
 
 and this mess:
+
 ![litecli](images/litecli.png)
 
 here's what it looks like:
