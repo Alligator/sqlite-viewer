@@ -1,14 +1,14 @@
 # sqlite viewer
 A little python script for running a query against a sqlite database and printing the results.
-![sqlite3](images/sqlite3.png)
 
 Created because I got tired of this mess:
-![litecli](images/litecli.png)
+![sqlite3](images/sqlite3.png)
 
 and this mess:
-![sqlite-viewer](images/sqlite-viewer.png)
+![litecli](images/litecli.png)
 
 this is what the results look like:
+![sqlite-viewer](images/sqlite-viewer.png)
 
 ## setup
 The .py script has a hashbang, so you can symlink it to somewhere on your path like follows:
