@@ -10,6 +10,7 @@ and this mess:
 ![litecli](images/litecli.png)
 
 here's what it looks like:
+
 ![sqlite-viewer](images/sqlite-viewer.png)
 
 It's very simple (and dumb). It wraps the text in the column with the longest
